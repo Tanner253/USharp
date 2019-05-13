@@ -30,3 +30,4 @@ Join the gitter chat room for quick help / discussion https://gitter.im/USharp/L
 ---
 
 **_Why does this project exist? Why wasn't this instead contributions to mono-ue?_** Originally this project was just a way to access the UObject system from C# and ended up basically being a copy of mono-ue. The mono-ue compile times / debugging process made it hard to contribute starting with little knowledge of Unreal.
+ 
